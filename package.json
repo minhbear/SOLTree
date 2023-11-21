@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "createTree": "ts-node ./createTree.ts"
+  },
   "dependencies": {
     "@metaplex-foundation/mpl-bubblegum": "^0.7.0",
     "@solana/spl-account-compression": "^0.2.0",
